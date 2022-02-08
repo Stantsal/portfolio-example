@@ -1,3 +1,3 @@
-https://github.com/Stantsal/portfolio-example
+https://stantsal.github.io/portfolio-example/
 
 
