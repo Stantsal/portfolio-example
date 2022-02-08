@@ -1,4 +1,4 @@
-https://stantsal.github.io/portfolio-example/
+https://stantsal.github.io/portfolio-example/portfolio
 
 
 
